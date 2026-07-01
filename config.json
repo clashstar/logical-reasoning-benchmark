@@ -1,0 +1,31 @@
+{
+  "data_dir": "./data",
+  "output_dir": "./outputs",
+  "representations": [
+    "symbolic",
+    "controlled",
+    "natural"
+  ],
+  "difficulties": [
+    "difflvl1",
+    "difflvl2",
+    "difflvl3",
+    "difflvl4",
+    "difflvl5",
+    "difflvl6",
+    "difflvl7"
+  ],
+  "splits": [
+    "test",
+    "test_ood",
+    "lexical_ood",
+    "template_ood"
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

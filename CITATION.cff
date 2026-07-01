@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this experimental code or analysis artifacts, please cite it using the metadata below."
+title: "Logical Reasoning Benchmark Experiments and Analysis"
+authors:
+  - family-names: "Baligar"
+    given-names: "Yash"
+version: "1.0.0"
+date-released: "2026-07-01"
+license: "MIT"
+type: software

@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Logical Reasoning Benchmark Experiments and Analysis",
+    "upload_type": "software",
+    "description": "Code, configurations, result summaries, and analysis artifacts for reproducing model evaluations on a logical reasoning benchmark.",
+    "creators": [
+      {
+        "name": "Baligar, Yash"
+      }
+    ],
+    "access_right": "open",
+    "license": "MIT",
+    "version": "1.0.0",
+    "keywords": [
+      "logical reasoning",
+      "machine learning",
+      "natural language processing",
+      "transformers",
+      "benchmark evaluation",
+      "reproducibility"
+    ]
+  }
+}

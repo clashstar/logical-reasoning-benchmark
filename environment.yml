@@ -1,0 +1,16 @@
+name: reasoning-benchmark-experiments
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - openpyxl
+  - pip
+  - pip:
+      - jax
+      - flax
+      - optax
+      - transformers
